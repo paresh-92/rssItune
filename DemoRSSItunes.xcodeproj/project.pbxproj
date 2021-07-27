@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		E2729CD626AD32BF00D267D0 /* CustomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2729CD526AD32BF00D267D0 /* CustomCell.swift */; };
-		E2729CD826AD84AF00D267D0 /* tblCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2729CD726AD84AF00D267D0 /* tblCell.swift */; };
 		E2729CDA26ADB30100D267D0 /* ModelClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2729CD926ADB30100D267D0 /* ModelClass.swift */; };
 		E2729CDC26ADDBB100D267D0 /* detailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2729CDB26ADDBB100D267D0 /* detailVC.swift */; };
 		E2FCCFEE26AC45CC00D952C2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2FCCFED26AC45CC00D952C2 /* AppDelegate.swift */; };
@@ -20,7 +19,6 @@
 
 /* Begin PBXFileReference section */
 		E2729CD526AD32BF00D267D0 /* CustomCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCell.swift; sourceTree = "<group>"; };
-		E2729CD726AD84AF00D267D0 /* tblCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tblCell.swift; sourceTree = "<group>"; };
 		E2729CD926ADB30100D267D0 /* ModelClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelClass.swift; sourceTree = "<group>"; };
 		E2729CDB26ADDBB100D267D0 /* detailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = detailVC.swift; sourceTree = "<group>"; };
 		E2FCCFEA26AC45CC00D952C2 /* DemoRSSItunes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DemoRSSItunes.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -46,7 +44,6 @@
 		E2FCCFE126AC45CC00D952C2 = {
 			isa = PBXGroup;
 			children = (
-				E2729CD726AD84AF00D267D0 /* tblCell.swift */,
 				E2FCCFEC26AC45CC00D952C2 /* DemoRSSItunes */,
 				E2FCCFEB26AC45CC00D952C2 /* Products */,
 			);
@@ -145,7 +142,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E2729CD826AD84AF00D267D0 /* tblCell.swift in Sources */,
 				E2FCCFF226AC45CC00D952C2 /* ViewController.swift in Sources */,
 				E2FCCFEE26AC45CC00D952C2 /* AppDelegate.swift in Sources */,
 				E2729CD626AD32BF00D267D0 /* CustomCell.swift in Sources */,

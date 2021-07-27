@@ -34,8 +34,7 @@ static let cellIdentifier = "CustomTableviewCell"
         
         lblAlbumName.frame = CGRect(x: 80, y: 25, width: 280, height: 30)
         lblAlbumName.numberOfLines = 2
-//        lblAlbumName.backgroundColor = #colorLiteral(red: 0.9372549057, green: 0.3490196168, blue: 0.1921568662, alpha: 1)
-//        lblArtistName.backgroundColor = #colorLiteral(red: 0.2588235438, green: 0.7568627596, blue: 0.9686274529, alpha: 1)
+
         lblArtistName.frame = CGRect(x: 80, y: 55, width: 300, height: 30)
         lblAlbumName.font = .systemFont(ofSize: 14, weight: .semibold)
         lblAlbumName.textColor = .black
